@@ -1,3 +1,10 @@
+## 🌍 Languages
+
+- [English](#-how-to-run-the-app-bypassing-smartscreen-windows)
+- [Italiano](#-avvio-dellapp-come-superare-smartscreen-windows)
+
+---
+
 ## 📥 Download the latest version
 
 👉 You can download the latest version of **StakaNot** [here](https://github.com/stakanot/StakaNot/releases/download/stakanot/StakaNot.exe).
@@ -60,4 +67,3 @@ Segui questi passaggi:
 ✅ Non dovrai ripetere questi passaggi le volte successive.
 
 ---
-
